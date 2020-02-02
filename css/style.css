@@ -58,6 +58,19 @@ body {
   border-radius: 5px;
 }
 
-.head-primary {
+.head-primary,
+.btn-primary {
   background: purple;
 }
+.btn-primary {
+  border: purple;
+}
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited
+{
+  background: #fff;
+  color: purple;
+}
+
+
