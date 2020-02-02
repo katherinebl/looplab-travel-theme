@@ -42,7 +42,8 @@ body {
   background-color: purple;
 }
 
-#home-section .fas {
+#home-section .fas,
+#create-section .fas {
   color: purple;
   background: #fff;
   padding: 5px;
@@ -55,4 +56,8 @@ body {
   background: purple;
   padding: 5px;
   border-radius: 5px;
+}
+
+.head-primary {
+  background: purple;
 }
