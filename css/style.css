@@ -1,4 +1,5 @@
 body {
+  overflow-x: hidden;
   background: #333;
   color: #fff;
 }
