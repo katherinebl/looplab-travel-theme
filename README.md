@@ -1,2 +1,2 @@
 # looplab-social-theme
-Bootstrap project 1
+Web page for travel business, made with bootstrap and jquery.
