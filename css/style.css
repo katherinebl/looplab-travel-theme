@@ -5,12 +5,12 @@ body {
 }
 
 .navbar {
-  border-bottom: purple 3px solid;
+  border-bottom: #8e2e6a 3px solid;
   opacity: 0.8;
 }
 
 #home-section {
-  background: url(../img/home.jpg);
+  background: url(../img/home3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -36,16 +36,16 @@ body {
 
 #home-section .card
 {
-  border: rgba(0,0,0, 0.7) 2px solid;
+  border: #5c7658 2px solid;
 }
 
 #home-section .card-body {
-  background-color: purple;
+  background-color: #5c7658;
 }
 
 #home-section .fas,
 #create-section .fas {
-  color: purple;
+  color: #8e2e6a;
   background: #fff;
   padding: 5px;
   border-radius: 5px;
@@ -54,24 +54,29 @@ body {
 #explore-section .fas,
 #share-section .fas {
   color: #fff;
-  background: purple;
+  background: #8e2e6a;
   padding: 5px;
   border-radius: 5px;
 }
 
 .head-primary,
 .btn-primary {
-  background: purple;
+  background: #5c7658;;
 }
 .btn-primary {
-  border: purple;
+  border: #8e2e6a;
 }
 .btn-primary:hover,
 .btn-primary:active,
 .btn-primary:visited
 {
   background: #fff;
-  color: purple;
+  color: #8e2e6a;
 }
 
-
+#main-footer .github-link {
+  color: #fff;
+  display: block;
+  text-decoration: none;
+  font-size: small;
+}
