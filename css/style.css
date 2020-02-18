@@ -73,10 +73,19 @@ body {
   background: #fff;
   color: #8e2e6a;
 }
+.btn-outline-secondary.github-link:hover {
+  background: #8e2e6a;
+  color: #fff;
+}
+
 
 #main-footer .github-link {
   color: #fff;
   display: block;
   text-decoration: none;
   font-size: small;
+}
+
+#main-footer .github-link:hover {
+  color: #8e2e6a; 
 }
