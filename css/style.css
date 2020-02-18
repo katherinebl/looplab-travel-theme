@@ -73,8 +73,8 @@ body {
   background: #fff;
   color: #8e2e6a;
 }
-.btn-outline-secondary.github-link:hover {
-  background: #8e2e6a;
+.btn-outline-secondary .github-link:hover {
+  background: #5c7658;
   color: #fff;
 }
 
